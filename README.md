@@ -67,10 +67,6 @@ Kontribusi terhadap proyek ini sangat dihargai. Jika Anda ingin berkontribusi, m
 5.  Push branch Anda ke repositori forked Anda (`git push origin feature/nama-fitur-anda`).
 6.  Buka Pull Request ke repositori utama, jelaskan perubahan yang Anda buat, dan mengapa itu diperlukan.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi Anda, contoh: Lisensi MIT]. Silakan lihat file `LICENSE` (jika tersedia) untuk detail lebih lanjut.
-
 ## Kontak
 
 Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi:
