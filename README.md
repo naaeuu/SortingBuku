@@ -75,5 +75,6 @@ Proyek ini dilisensikan di bawah [Nama Lisensi Anda, contoh: Lisensi MIT]. Silak
 
 Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi:
 
-  * **Pengembang**: Zekken23 , Naaeuu, Fadhil
+  * **Pengembang**: Zekken23 , Naaeuu, Agaggam
   * **GitHub**: [https://github.com/Zekken23](https://www.google.com/search?q=https://github.com/Zekken23)
+  * **GitHub**: [https://github.com/Agaggam] (https://www.google.com/search?q=https://github.com/Agaggam)
